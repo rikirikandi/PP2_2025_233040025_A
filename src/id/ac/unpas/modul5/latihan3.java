@@ -1,4 +1,4 @@
-package id.ac.unpas.modul05;
+package id.ac.unpas.modul5;
 
 import java.awt.FlowLayout;
 import javax.swing.JButton;

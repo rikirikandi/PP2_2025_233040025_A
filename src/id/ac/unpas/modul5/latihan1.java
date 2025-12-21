@@ -1,4 +1,4 @@
-package id.ac.unpas.modul05;
+package id.ac.unpas.modul5;
 
 import javax.swing.JFrame;
 import javax.swing.SwingUtilities;
